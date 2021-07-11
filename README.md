@@ -1,6 +1,6 @@
 # Intrusion-Detection-System
 
-It is my ML project in which we developed an intrusion detection system and integrated it
+This is my ML project in which we developed an intrusion detection system and integrated it
 with web application.This system classifies the traffic of a site as a normal traffic or a type of attack like DOS
 attack,probe attack, teardrop attack.
 
